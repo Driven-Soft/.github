@@ -7,23 +7,14 @@
 - Felipe Bezerra Beatrici  
 - Max Hayashi Batista
 - Henrique Cunha Torres
-
-## 📂 Projetos
-
-- **HC Auxilia**  
-  Sistema voltado à área da saúde, com integrações externas e gestão de dados.
-  
-- **Auralis**  
-  Plataforma de bem-estar focada em saúde mental, oferecendo recursos para relaxamento, organização emocional e melhoria da qualidade de vida.
-  
-- **Hidralerta**  
-  Sistema de monitoramento e alerta de riscos ambientais, com foco em prevenção de enchentes e suporte à tomada de decisão.
-
+- Lucas da Silva Lima
+- Yasmin Nathalin Miranda dos Santos
+ 
 ## 🤝 Colaboração
 
-- Branches para features (`feature/...`)  
-- Pull Requests com revisão de código  
-- Commits objetivos e padronizados  
+- Branches para features (`feature/...`)
+- Pull Requests com revisão de código
+- Commits objetivos e padronizados
 
 ## 📈 Visão
 
